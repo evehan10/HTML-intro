@@ -1,0 +1,90 @@
+p {
+
+    color: #490d0d;
+    text-align: center;
+
+}
+
+
+.uthevet {
+
+    background-color: #d3d3d3;
+
+}
+
+
+h1 {
+
+    font-size: 2.5rem;
+    text-align: center;
+    color: #2b0101;
+
+}
+
+h2 {
+
+    text-align: center;
+    color: #700f0f;
+
+}
+
+h3 {
+
+    text-align: center;
+    color: #700f0f;
+
+}
+
+
+footer {
+
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+nav {
+
+   text-align: center;
+   font-size: 1.2rem;
+
+}
+
+
+img {
+
+  display: block;
+  margin: auto;
+
+}
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+
+}
+
+ol {
+
+    text-align: center;
+    font-size: 1.2rem;
+    list-style-position: inside;
+
+}
+
+.aligned-container {
+  text-align: center;
+}
+
+
+.quote {
+
+    font-size: 1.5rem;
+    text-align: center;
+    color: #700f0f;
+
+}
+
+body {
+    background-color: #d1bdbd;
+}
